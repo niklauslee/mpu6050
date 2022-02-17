@@ -1,0 +1,6 @@
+{
+  "name": "mpu6050",
+  "version": "1.0.0",
+  "description": "Kaluma library for MPU6050 6-axis motion sensor.",
+  "main": "index.js"
+}
